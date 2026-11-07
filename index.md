@@ -1,5 +1,3 @@
-# DSC 180A: Methodology 4
-
 Karina Zambani - kzambani@ucsd.edu
 
 D41 - Peter Chi
